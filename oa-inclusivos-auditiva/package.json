@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "@hello-pangea/dnd": "^18.0.1",
+    "express": "^5.1.0",
+    "lodash": "^4.17.21",
+    "ltijs": "^5.9.7",
+    "ltijs-sequelize": "^2.4.4",
+    "mariadb": "^3.4.4",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.14.1",
+    "nodemon": "^3.1.10",
+    "sequelize": "^6.37.7",
+    "uuid": "^11.1.0"
+  },
+  "name": "oa-inclusivos-auditiva",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon backend/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
